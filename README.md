@@ -11,3 +11,5 @@
 | D | Move right |
 | LMB | Increase speed while flying |
 | RMB | Decrease speed while flying |
+| SPACE | Go up |
+| CTRL | Go down |
