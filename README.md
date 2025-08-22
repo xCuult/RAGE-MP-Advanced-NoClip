@@ -1,7 +1,7 @@
 # NoClip which allows the player or the vehicle in which the player is sitting to fly
 # Flexible configuration available
 
-#Controls
+# Controls
 | Key | Action |
 | --- | --- |
 | F2 | Toggle NoClip |
